@@ -1,13 +1,13 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #004ff8;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 2rem 0;
 }
@@ -38,8 +38,16 @@ a:hover {
     text-decoration: underline;
 }
 img {
-    max-width: 100%;
+    max-width: 75%;
     height: auto;
     display: block;
     margin: 1rem 0;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 6rem;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3rem;
 }
